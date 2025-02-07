@@ -17,8 +17,8 @@ It is part of a collaboration with Dicoding Indonesia as a submission for course
 ### Cloning Repository.
 ```bash
 cd ~
-git clone https://github.com/PFebrianoooo/Notes-App.git
-cd Notes-App
+git clone https://github.com/PFebrianoooo/Notes-Api.git
+cd Notes-Api
 code .
 ```
 ## Routes URL
